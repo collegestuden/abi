@@ -1,0 +1,224 @@
+.statistics {
+  color: #000;
+  width: 100%;
+  height: 100%;
+  background-color: #000;
+  border-radius: 25px;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: stretch;
+  font-family: Inter;
+  font-size: 2.25rem;
+  font-weight: 800;
+  line-height: 44px;
+  display: flex;
+}
+
+.image-13 {
+  height: 100%;
+  background-image: url("https://images.pexels.com/photos/207247/pexels-photo-207247.jpeg?cs=srgb&dl=pexels-pixabay-207247.jpg&fm=jpg");
+  background-position: center;
+  background-size: cover;
+  flex-direction: column;
+  flex-basis: 100%;
+  justify-content: space-evenly;
+  align-items: stretch;
+  padding: 3px 31px 13px 19px;
+  display: flex;
+}
+
+.flex-container {
+  text-align: center;
+  width: 60%;
+  flex-direction: row;
+  flex-basis: 3%;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 1px;
+  margin-bottom: 3px;
+  margin-left: 8px;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 39px;
+  display: flex;
+}
+
+.home {
+  align-self: flex-start;
+  margin-left:-20px;
+}
+
+.services {
+  align-self: flex-start;
+  margin-left: -700px;
+}
+
+.about-us {
+  align-self: flex-end;
+  margin-left: -700px;
+}
+
+.contact {
+  align-self: flex-end;
+  margin-left: -700px;
+}
+
+.flex-container-1 {
+  width: 90%;
+  flex-direction: row;
+  flex-basis: 26%;
+  justify-content: space-between;
+  align-self: flex-end;
+  align-items: stretch;
+  margin-left: 14px;
+  display: flex;
+}
+
+.rectangle-293 {
+  height: 65%;
+  background-color: #a0f238;
+  border-radius: 30px;
+  flex-direction: row;
+  flex-basis: 18%;
+  justify-content: center;
+  align-self: flex-end;
+  align-items: center;
+  margin-top: 3px;
+  padding-bottom: 3px;
+  padding-right: 5px;
+  display: flex;
+  background:url("https://i.pinimg.com/originals/3b/39/2b/3b392be0ffe869c1c036ace3277f88c6.jpg");
+  border-radius:400px;
+}
+
+.num-2019 {
+  margin-bottom: 1px;
+}
+
+.rectangle-292 {
+  flex-direction: row;
+  flex-basis: 18%;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 3px;
+  padding-bottom: 3px;
+  padding-left: 10px;
+  display: flex;
+  background:url("https://thumbs.dreamstime.com/b/many-white-cloud-sky-beautiful-101711207.jpg");
+  height:217px;
+  width:150px;
+  border-radius: 500px;
+
+}
+
+.num-2020 {
+  margin-bottom: 1px;
+  margin-left: 5px;
+}
+
+.rectangle-245 {
+  height: 30%;
+  background-color: #f0f9f3;
+  border-radius: 30px;
+  flex-direction: row;
+  flex-basis: 35%;
+  justify-content: center;
+  align-items: center;
+  margin-top: 31px;
+  margin-left: 85px;
+  padding-top: 4px;
+  padding-right: 17px;
+  font-size: 2.5rem;
+  line-height: 48px;
+  display: flex;
+  border-radius:500px;
+}
+
+.statistics-1 {
+  margin-top: 2px;
+}
+
+.rectangle-291 {
+  width:40%;
+  background-color: #ded96c;
+  border-radius: 100px;
+  flex-direction: row;
+  flex-basis: 25%;
+  justify-content: center;
+  align-items: center;
+  margin-bottom:8px;
+  margin-right: 20px;
+  padding-top: 8px;
+  padding-left: 8px;
+  display: flex;
+  background:url("https://e0.pxfuel.com/wallpapers/457/37/desktop-wallpaper-pink-sky-iphone-iphone-pink-sky-132591-beautiful-w-pink-clouds-aesthetic-background-night-sky-cute-pink-cloud.jpg");
+
+}
+
+.every-day-is-earth-d {
+  margin-top: 2px;
+  margin-left: 4px;
+}
+
+.flex-container-2 {
+  width: 40%;
+  flex-direction: row;
+  flex-basis: 23%;
+  justify-content: space-between;
+  align-items: stretch;
+  margin-top: 1px;
+  margin-bottom: 3px;
+  margin-left: 185px;
+  display: flex;
+}
+
+.rectangle-295 {
+  color: #000;
+  height: 75%;
+  background-color: #a0f238;
+  border: none;
+  border-radius: 30px;
+  flex-direction: row;
+  flex-basis: 40%;
+  justify-content: center;
+  align-items: center;
+  padding-top: 18px;
+  padding-left: 4px;
+  font-family: Inter;
+  font-size: 2.25rem;
+  font-weight: 800;
+  line-height: 44px;
+  display: flex;
+  background: url("https://qph.cf2.quoracdn.net/main-qimg-c63b3bc123acecf3534b2c540b1a0b62-lq");
+  width:173px;
+  height:217px;
+  border-radius:500px;
+}
+
+.num-2021 {
+  margin-top: 9px;
+  margin-left: 2px;
+}
+
+.rectangle-294 {
+  height: 75%;
+  background-color: #a0f238;
+  border-radius: 30px;
+  flex-direction: row;
+  flex-basis: 40%;
+  justify-content: center;
+  align-self: flex-end;
+  align-items: center;
+  padding-top: 24px;
+  padding-left: 17px;
+  display: flex;
+  background:url("https://media.istockphoto.com/id/1368007300/video/sun-comes-out-from-behind-a-cloud-in-the-early-morning-above-the-clouds-flying-above-the.jpg?b=1&s=640x640&k=20&c=WedPUUgBFvgzvAMQDlrTQPMx_Ww6emScWM8I4C2hA4g=");
+  width:173px;
+  height:217px;
+  border-radius: 500px;
+}
+
+.num-2022 {
+  margin-top: 12px;
+  margin-left: 9px;
+}
